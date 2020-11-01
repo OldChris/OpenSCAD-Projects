@@ -2,7 +2,7 @@
 
 ## What is OpenSCAD-Projects?
 This is a copy of my OpenSCAD projects that I also share on Thingiverse
-Here only the .scad files are shared, for STL and images please visit https://thingiverse.com
+Here only the .scad files are shared, for STL and images please visit https://www.thingiverse.com/chrisvangorp/designs
 
 ## How does it work?
 I would like every one to use my designs and utitlities.
