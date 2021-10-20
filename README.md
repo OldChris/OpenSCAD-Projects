@@ -20,5 +20,5 @@ test markdown below
 3. segundo
 4. tercera
 
-. een
-. twee
+* een
+* twee
