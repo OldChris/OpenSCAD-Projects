@@ -17,8 +17,10 @@ Improve code and add functionality, any suggestions are welcome.
 
 test markdown below
 1. primero
-3. segundo
-4. tercera
+tekst een
+2. segundo
+tekst bij bullet twee
+3. tercera
 
 * een
 * twee
